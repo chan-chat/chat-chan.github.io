@@ -1,3 +1,5 @@
+### *Disponible pour un un stage en data science d'une durée de 4/5 mois à partir de Mai 2023*
+
 ## Formation
 
 ### Master 2 Apprentissage machine/science des données
@@ -19,16 +21,18 @@ Programmation & algorithmie, Gestion de base de données
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Tableau de bord d'articles scientifiques](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+Réalisation d'un tableau de bord sur QlikSense à l'aide d'un jeu de données volumineux d'articles scientifiques.
+Pré-traitement et nettoyage des données sur Jupyter. Application de l'algorithme de Louvain, cosensus clustering et interprétation des résultats obtenus.
 ---
-[Project 2 Title]([https://github.com/Heybatam/Twitter-sentiment-analysis])
+[Analyse de sentiment sur Twitter]([https://github.com/Heybatam/Twitter-sentiment-analysis])
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 Téléchargement, tri et nettoyage de tweets d'un utilisateur suivi de sa classification selon sa positivité/négativité
+
 ---
-[Project 3 Title]([http://example.com/](https://github.com/Heybatam/TER-Shiny))
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Interface ensemble clustering]([http://example.com/](https://github.com/Heybatam/TER-Shiny))
+<img src="images/dummy_thumbnail.jpg?raw=true"/> 
 Développement d'une interface présentant les résultats de plusieurs algorithmes d'apprentissage non-supervisés
 
 ---

@@ -20,7 +20,7 @@ Programmation & algorithmie, Gestion de base de données
 ---
 
 [Tableau de bord d'articles scientifiques]
-<img src="images/tbd.jpg?raw=true"/>
+<img src="images/tbd.jpg"/>
 Réalisation d'un tableau de bord sur QlikSense à l'aide d'un jeu de données volumineux d'articles scientifiques.
 Pré-traitement et nettoyage des données sur Jupyter. Application de l'algorithme de Louvain, cosensus clustering et interprétation des résultats obtenus.
 
@@ -37,7 +37,7 @@ Développement d'une interface présentant les résultats de plusieurs algorithm
 
 ---
 
-[Répertoire de filmsg]([https://github.com/Heybatam/M1-MovieApp])
+[Répertoire de films]([https://github.com/Heybatam/M1-MovieApp])
 <img src="images/movie.png?raw=true"/> 
 Développement d'un site web regroupant les informations de divers films à l'aide de l'API IMDB basé sur l'architecture REST et les microservices à l'aide du framework SpringBoot.
 Utilisation de Docker et Kubernetes pour la création de conteneurs et leur exécution.

@@ -18,19 +18,6 @@ Programmation & algorithmie, Gestion de base de données
 ## Portfolio
 
 ---
-
-[Tableau de bord d'articles scientifiques]
-<img src="images/tbd.jpg"/>
-Réalisation d'un tableau de bord sur QlikSense à l'aide d'un jeu de données volumineux d'articles scientifiques.
-Pré-traitement et nettoyage des données sur Jupyter. Application de l'algorithme de Louvain, cosensus clustering et interprétation des résultats obtenus.
-
----
-
-[Analyse de sentiment sur Twitter]([https://github.com/Heybatam/Twitter-sentiment-analysis])
-Téléchargement, tri et nettoyage de tweets d'un utilisateur suivi de sa classification selon sa positivité/négativité
-
----
-
 [Interface ensemble clustering]([http://example.com/](https://github.com/Heybatam/TER-Shiny))
 <img src="images/dummy_thumbnail.jpg?raw=true"/> 
 Développement d'une interface présentant les résultats de plusieurs algorithmes d'apprentissage non-supervisés
@@ -44,5 +31,18 @@ Utilisation de Docker et Kubernetes pour la création de conteneurs et leur exé
 
 
 ---
+Tableau de bord d'articles scientifiques
+<img src="images/tbd.jpg"/>
+Réalisation d'un tableau de bord sur QlikSense à l'aide d'un jeu de données volumineux d'articles scientifiques.
+Pré-traitement et nettoyage des données sur Jupyter. Application de l'algorithme de Louvain, cosensus clustering et interprétation des résultats obtenus.
+
+---
+
+[Analyse de sentiment sur Twitter]([https://github.com/Heybatam/Twitter-sentiment-analysis])
+Téléchargement, tri et nettoyage de tweets d'un utilisateur suivi de sa classification selon sa positivité/négativité
+
+---
+
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->

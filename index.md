@@ -22,12 +22,11 @@ Programmation & algorithmie, Gestion de base de données
 ### Category Name 1 
 
 [Tableau de bord d'articles scientifiques](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/tbd.jpg?raw=true"/>
 Réalisation d'un tableau de bord sur QlikSense à l'aide d'un jeu de données volumineux d'articles scientifiques.
 Pré-traitement et nettoyage des données sur Jupyter. Application de l'algorithme de Louvain, cosensus clustering et interprétation des résultats obtenus.
 ---
 [Analyse de sentiment sur Twitter]([https://github.com/Heybatam/Twitter-sentiment-analysis])
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 Téléchargement, tri et nettoyage de tweets d'un utilisateur suivi de sa classification selon sa positivité/négativité
 
 ---
@@ -37,17 +36,10 @@ Développement d'une interface présentant les résultats de plusieurs algorithm
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
+[Répertoire de filmsg]([https://github.com/Heybatam/M1-MovieApp])
+<img src="images/movie.png?raw=true"/> 
+Développement d'un site web regroupant les informations de divers films à l'aide de l'API IMDB basé sur l'architecture REST et les microservices à l'aide du framework SpringBoot.
+Utilisation de Docker et Kubernetes pour la création de conteneurs et leur exécution.
 
 
 ---
